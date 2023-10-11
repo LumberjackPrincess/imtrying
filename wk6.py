@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print("Moose")
-print(Big Moose)
+=======
+print("Big Moose")
+>>>>>>> bugfix
